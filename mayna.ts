@@ -9,4 +9,8 @@ console.log("le nombre est negatif");
         console.log("le produit est null");
     }
 }
-test(61,0);
+//test(61,0);
+function parité(){
+    
+}
+
